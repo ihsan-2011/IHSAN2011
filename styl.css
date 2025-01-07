@@ -16,9 +16,68 @@ h1{
     
 }
 .span{
-    color: aliceblue;
-    background-color: aquamarine(255,0,0)
+    color: 
+    background-color: aquamarine(255,0,0);
     padding: 2px 4px;
 
 }
-   
+.blog-centry{
+ text-align: center;  
+ background-color:blue
+}
+main {
+    color: brown;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
+section{
+    width: 100%;
+    float: left;
+}
+article{
+    margin-bottom: 24px;
+    box-shadow: 1px 0.5px 10px rgb(0, 0 , 0);
+
+}
+.blog-centry{
+    padding: 12px;
+}
+h5{
+    margin-top: 8px;
+}
+.blog{
+    color:cyan(0,0,0)
+}
+.blog-description{
+    margin-top: 24px;
+}
+button{
+    padding: 8px 12px;
+    border: 1px solid rgb(255, 0 , 0)
+}   
+.comment{
+    float: right;
+    margin-top: 8px;
+}
+.blog-number{
+    color: aqua;
+    background-color: aqua;
+    padding: 2px 4px;
+}
+.riht-container{
+    float: right;
+    margin-left: 5% ;
+    width: 30%;
+}
+aside{
+    box-shadow: 1px 0.5 10px rgb(0, 0 , 0);
+}
+.menu-p{
+    margin-top: 8px;
+}
+.menu-content{
+    padding: 12px;
+}
+
