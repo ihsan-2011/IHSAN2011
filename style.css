@@ -1,0 +1,9 @@
+body{
+    background-color: brown;
+   display:block;
+}
+p{
+    text-align: center;
+   text-shadow: 1cm; 
+   color: bisque;
+}
